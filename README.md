@@ -1,0 +1,2 @@
+# projecteuler
+just for fun
